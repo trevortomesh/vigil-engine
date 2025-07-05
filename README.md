@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="Love2D" src="https://img.shields.io/badge/LÖVE-11.x-ff69b4?logo=love&logoColor=white&style=flat-square"/>
   <img alt="Vibe-Coded" src="https://img.shields.io/badge/Vibe%20Coded-%F0%9F%92%8C-purple?style=flat-square"/>
-  <a href="#-dedication">
+  <a href="https://github.com/trevortomesh/fearfully-coded">
     <img alt="Fearfully Coded" src="https://img.shields.io/badge/🕊️Fearfully%20Coded-blue?style=flat-square"/>
   </a>
 </p>
@@ -109,7 +109,10 @@ Place your media files here:
 * `maps/` → level layouts
 
 ---
+🤖 Note
 
+This tool was created using vibe coding — describing what I wanted to an AI assistant, refining the results through iteration. No detailed plan — just intuition, adaptation, and execution.
+---
 ## 📋 Contributing
 
 * Create issues for bugs or feature ideas
@@ -130,7 +133,6 @@ Include your preferred license here (e.g., MIT License).
 * **Logo**: Designed for *The Vigil Engine*
 * **Built with**: [LÖVE](https://love2d.org), Lua
 
----
 ---
 
 ## 🕊️ Dedication
