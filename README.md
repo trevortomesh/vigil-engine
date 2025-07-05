@@ -1,5 +1,6 @@
 🔧 The Vigil Engine
 
+(logo)[/img/logo.png]
 <p align="center">
   <img alt="Love2D" src="https://img.shields.io/badge/LÖVE-11.x-ff69b4?logo=love&logoColor=white&style=flat-square"/>
   <img alt="Vibe-Coded" src="https://img.shields.io/badge/Vibe%20Coded-%F0%9F%92%8C-purple?style=flat-square"/>
