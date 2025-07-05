@@ -1,5 +1,9 @@
--- data/world.lua
 return {
+    start = {
+        map = "church1",
+        position = { x = 18, y = 5 }
+    },
+
     church1 = {
         file = "maps/church1.txt",
         exits = {
@@ -16,11 +20,11 @@ return {
                 type = "floating_text",
                 x = 12, y = 7,
                 text = "The wind whispers through the rafters.",
-                color = {0.8, 0.8, 1.0}, -- light blue-ish
                 once = false
             }
         }
     },
+
     rectory = {
         file = "maps/rectory.txt",
         exits = {
