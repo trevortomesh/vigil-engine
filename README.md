@@ -2,6 +2,14 @@
 
 ![The Vigil Engine Logo](img/logo.png)
 
+<p align="center">
+  <img alt="Love2D" src="https://img.shields.io/badge/LÖVE-11.x-ff69b4?logo=love&logoColor=white&style=flat-square"/>
+  <img alt="Vibe-Coded" src="https://img.shields.io/badge/Vibe%20Coded-%F0%9F%92%8C-purple?style=flat-square"/>
+  <a href="#-dedication">
+    <img alt="Fearfully Coded" src="https://img.shields.io/badge/🕊️Fearfully%20Coded-blue?style=flat-square"/>
+  </a>
+</p>
+
 **The Vigil Engine** is a lightweight Lua/LÖVE-based roguelike engine designed for building atmospheric, choice-rich horror games with ease. 
 
 Features:
@@ -118,7 +126,7 @@ Include your preferred license here (e.g., MIT License).
 
 ## ✨ Credits
 
-* **Engine by**: *Your Name*
+* **Engine by**: *Trevor Tomesh*
 * **Logo**: Designed for *The Vigil Engine*
 * **Built with**: [LÖVE](https://love2d.org), Lua
 
