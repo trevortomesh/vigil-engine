@@ -131,5 +131,18 @@ Include your preferred license here (e.g., MIT License).
 * **Built with**: [LÖVE](https://love2d.org), Lua
 
 ---
+---
 
+## 🕊️ Dedication
+
+This project is dedicated to the Lord.
+
+All logic, structure, and order — including the very foundations of programming — reflect the perfection of His design. May this tool, in its small way, point toward the beauty and coherence He has written into the fabric of creation.
+
+> **"I praise you, for I am fearfully and wonderfully made.  
+> Wonderful are your works; my soul knows it very well."**  
+> — Psalm 139:14
+
+**Soli Deo Gloria.**
+---
 > “And through the shadows, light endures.”
