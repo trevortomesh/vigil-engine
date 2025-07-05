@@ -22,13 +22,12 @@ Download and install [LÖVE](https://love2d.org) for your OS.
 
 ```bash
 git clone https://github.com/yourusername/vigil-engine.git
-cd vigil-engine
 ```
 
 ### 3. Run the engine
 
 ```bash
-love .
+love vigil-engine
 ```
 
 ---
