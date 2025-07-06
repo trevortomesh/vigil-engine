@@ -1,0 +1,13 @@
+== ROOM chapel ==
+###############
+#....o........#
+<.@...........>
+#.......###...#
+#.#...#########
+#######
+
+@: PLAYER START
+>: DIALOG "You feel a mysterious force pulling you."
++: HP +1
+<: PROMPT "Would you like to exit? Y/N"
+o: DIALOG "A grizzled old man sits in the darkness. 'I wouldn't go any further if I were you!'"
