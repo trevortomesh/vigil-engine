@@ -46,7 +46,8 @@ vigil-engine/
 ├── conf.lua        # LÖVE window config
 ├── main.lua        # Engine entry point and game loop
 ├── settings.lua    # Runtime tuning (floating-text colors, speeds)
-└── README.md       # This file
+├── README.md       # This file
+└── vigil2          # An early experimental engine with carts
 ```
 
 ---
@@ -202,6 +203,14 @@ return {
   * In-game console for teleporting, adding items, setting statuses
 
 ---
+## What’s Vigil2?
+
+Vigil2 is a little side experiment that allows you to build rich, narrative-driven tile-based games using nothing but a single .vc file. The core idea is cartridge simplicity: you drop a .vc “virtual cart” into the CartSlot folder, and the engine loads it—no extra assets, no code changes, just pure data-driven storytelling.
+
+Vigil2 is inspired by old-school cartridge systems and minimalist design. Rooms, NPCs, dialogue, and logic are all defined inline using a lightweight, human-readable format. The engine parses this structure and handles rendering, navigation, dialog, and interaction—all with a minimal Lua/LÖVE codebase.
+
+VERY MINIMAL. BARELY DOES ANYTHING!
+
 
 ## 📄 License
 
